@@ -1,0 +1,21 @@
+{
+  "metrics": {
+    "accuracy": 0.7218844984802432,
+    "auc": 0.7157224345129313,
+    "f1": 0.6453301582800611,
+    "weighted_precision": 0.709330250475432,
+    "weighted_recall": 0.7218844984802432,
+    "test_rows": 3948,
+    "train_rows": 16052
+  },
+  "top_feature_importances": {
+    "weekly_deliveries_last_8w": 0.27780370001147,
+    "app_sessions_last_30d": 0.1312390723249547,
+    "skipped_weeks_last_8w": 0.11138742812638382,
+    "days_since_last_login": 0.09685997634211166,
+    "tenure_months": 0.08160500563904234,
+    "discount_pct_last_order": 0.05221104076783567,
+    "avg_ticket_resolution_hrs": 0.04814253131322329,
+    "avg_box_price": 0.04118751261622637
+  }
+}
